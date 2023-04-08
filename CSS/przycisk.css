@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .przycisk{
     box-sizing: inherit;
     border: 2px 4px 6px 8px solid;
@@ -6,4 +7,14 @@
 }
 .przycisk:hover{
     background-color: crimson;
+=======
+.przycisk{
+    box-sizing: inherit;
+    border: 2px 4px 6px 8px solid;
+    border-radius: 5%;
+    margin: 40px auto 40px auto;
+}
+.przycisk:hover{
+    background-color: crimson;
+>>>>>>> f27654633005332bc320d79a59c47c80ba8692f3
 }
