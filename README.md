@@ -14,7 +14,7 @@ The website describe my short story and some extras about me.
 - Markdown
 - BEM convention
 - camelCase
--Arrow function
+- Arrow function
 
 ## My first skills 
 
